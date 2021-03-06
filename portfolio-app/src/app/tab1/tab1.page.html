@@ -1,7 +1,7 @@
 <ion-header [translucent]="true">
   <ion-toolbar>
     <ion-title>
-      Ramiro Gonzalez
+      Projects
     </ion-title>
   </ion-toolbar>
 </ion-header>
@@ -9,9 +9,37 @@
 <ion-content [fullscreen]="true">
   <ion-header collapse="condense">
     <ion-toolbar>
-      <ion-title size="large">Projects</ion-title>
+      <ion-title size="large" text-center>Projects</ion-title>
     </ion-toolbar>
   </ion-header>
 
-  <app-explore-container name="Tab 1 page"></app-explore-container>
+  <ion-card>
+    <ion-card-header>
+      <ion-card-title>Battery Hacks</ion-card-title>
+      <ion-card-subtitle>
+        <ion-chip>
+          <ion-icon name="checkmark" color="primary"></ion-icon> 
+          <ion-label>Completed
+          </ion-label>
+        </ion-chip>
+        <ion-chip>
+          <ion-label>Project Management</ion-label>
+        </ion-chip>
+       
+        <ion-chip>
+          <ion-label>LaTex</ion-label>
+        </ion-chip>
+      </ion-card-subtitle>
+    </ion-card-header>
+    <ion-card-content>
+      <b>BatteryHacks</b> was part of University of California, Merced's very first Tech Convention v0.
+      <ul> 
+        <li>Total Funding: $2,400</li>
+      </ul>
+     </ion-card-content>
+  </ion-card>
+  <!-- fab placed to the bottom and start and on the bottom edge of the content overlapping footer with a list to the right -->
+  <!-- fab placed to the top and end and on the top edge of the content overlapping header -->
+  
+  
 </ion-content>
