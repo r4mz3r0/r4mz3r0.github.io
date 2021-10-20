@@ -17,3 +17,6 @@ App Portfolio using Angular 9, Ionic 6, and Material Design
 2. `ionic build --prod`
 3. `firebase login`
 3. `firebase deploy`
+
+# Hosting 
+- https://portfolio-app-2741b.web.app/
