@@ -12,7 +12,7 @@ App Portfolio using Angular 9, Ionic 6, and Material Design
 3. installing Ionic angular `1. npm install -g @ionic/cli native-run cordova-res` 
 4. run `ionic serve` on root project directory
 
-# Updated firebase buil 
+# Updated firebase build
 1. `npm install -g firebase-tools`
 2. `ionic build --prod`
 3. `firebase login`
