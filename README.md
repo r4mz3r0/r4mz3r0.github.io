@@ -4,7 +4,8 @@ App Portfolio using Angular 9, Ionic 6, and Material Design
 ## Testing 
 1. The appllication is not night mode friendly on the safari browser 
 - Fix: Update global css to update 
-
+# Running on visual studio code powershell 
+- Set-ExecutionPolicy RemoteSigned 
 # Getting started 
 1. Install node version manager and use the latests https://github.com/nvm-sh/nvm 
 2. run `npm install` 
