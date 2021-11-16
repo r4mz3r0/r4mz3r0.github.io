@@ -25,3 +25,8 @@ App Portfolio using Angular 9, Ionic 6, and Material Design
 1. git add . 
 2. git commit -m "message" 
 3. git push -u origin master
+
+## NVM 
+- Node.js: 12 
+- NPM: 6.9.0 
+- Angular 13
