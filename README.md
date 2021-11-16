@@ -30,3 +30,4 @@ App Portfolio using Angular 9, Ionic 6, and Material Design
 - Node.js: v14.15.0
 - NPM: 6.14.8
 - Angular 13: `npx @angular/cli@13 update @angular/core@13 @angular/cli@13`
+Note: It's broken :(
