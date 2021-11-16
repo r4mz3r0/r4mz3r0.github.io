@@ -10,7 +10,8 @@ App Portfolio using Angular 9, Ionic 6, and Material Design
 1. Install node version manager and use the latests https://github.com/nvm-sh/nvm 
 2. run `npm install` 
 3. installing Ionic angular `1. npm install -g @ionic/cli native-run cordova-res` 
-4. run `ionic serve` on root project directory
+4. installing angular `npm install -g @angular/cli`
+5. run `ionic serve` on root project directory
 
 # Updated firebase build
 1. `npm install -g firebase-tools`
@@ -27,6 +28,7 @@ App Portfolio using Angular 9, Ionic 6, and Material Design
 3. git push -u origin master
 
 ## NVM 
+Installation may vary: https://update.angular.io/?v=11.0-13.0 
 - Node.js: v14.15.0
 - NPM: 6.14.8
 - Angular 13: `npx @angular/cli@13 update @angular/core@13 @angular/cli@13`
